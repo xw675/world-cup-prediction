@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS specific
+.DS_Store
+
+# Optional: Ignore large datasets or prediction outputs if you don't want to track them
+# datasets/
+# predictions_latest.csv
+backtest_wc2026.csv

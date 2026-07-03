@@ -1,0 +1,9 @@
+date,home_team,away_team,neutral,p_home_win,p_draw,p_away_win,xg_home,xg_away,most_likely_score,source
+2026-07-03,Argentina,Cape Verde,True,0.846,0.126,0.028,2.61,0.4,2-0 (16.9%),results.csv
+2026-07-03,Colombia,Ghana,True,0.71,0.218,0.073,1.88,0.54,1-0 (17.0%),results.csv
+2026-07-04,Canada,Morocco,True,0.189,0.337,0.474,0.79,1.47,1-1 (15.4%),results.csv
+2026-07-04,Paraguay,France,True,0.103,0.204,0.692,0.62,1.86,0-1 (16.0%),results.csv
+2026-07-05,Brazil,Norway,True,0.503,0.257,0.24,1.79,1.16,1-1 (12.0%),results.csv
+2026-07-05,Mexico,England,False,0.306,0.321,0.373,0.99,1.32,1-1 (15.0%),results.csv
+2026-07-06,Portugal,Spain,True,0.204,0.305,0.491,1.21,1.38,1-1 (14.5%),results.csv
+2026-07-06,United States,Belgium,False,0.326,0.266,0.408,1.31,1.64,1-1 (12.3%),results.csv
