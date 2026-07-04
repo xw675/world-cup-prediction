@@ -254,12 +254,15 @@ def main():
         lam_h = float(np.clip(reg_h.predict(X)[0], 0.01, 8))
         lam_a = float(np.clip(reg_a.predict(X)[0], 0.01, 8))
         m = couple_matrix(score_matrix(lam_h, lam_a), p)
-        top = np.unravel_index(m.argmax(), m.shape)
+        flat = m.ravel().argsort()[::-1][:3]
+        top3 = [(i // (MAX_GOALS + 1), i % (MAX_GOALS + 1), m.ravel()[i]) for i in flat]
         out.append({
             "date": date, "home_team": h, "away_team": a, "neutral": neutral,
             "p_home_win": round(p[0], 3), "p_draw": round(p[1], 3), "p_away_win": round(p[2], 3),
             "xg_home": round(lam_h, 2), "xg_away": round(lam_a, 2),
-            "most_likely_score": f"{top[0]}-{top[1]} ({m[top]:.1%})",
+            "score_1": f"{top3[0][0]}-{top3[0][1]} ({top3[0][2]:.1%})",
+            "score_2": f"{top3[1][0]}-{top3[1][1]} ({top3[1][2]:.1%})",
+            "score_3": f"{top3[2][0]}-{top3[2][1]} ({top3[2][2]:.1%})",
             "source": src,
         })
 
