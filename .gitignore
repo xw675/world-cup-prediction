@@ -24,5 +24,5 @@ venv.bak/
 
 # Optional: Ignore large datasets or prediction outputs if you don't want to track them
 # datasets/
-# predictions_latest.csv
-backtest_wc2026.csv
+predictions_latest.csv
+# backtest_wc2026.csv
