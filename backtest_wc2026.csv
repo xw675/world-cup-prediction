@@ -1,92 +1,93 @@
 date,home_team,away_team,home_score,away_score,p_home,p_draw,p_away,pred,actual,hit,p_actual,pred_score,score_hit
-2026-06-11,South Korea,Czech Republic,2,1,0.328,0.307,0.365,away,home,False,0.3277885567379291,1-1,False
-2026-06-11,Mexico,South Africa,2,0,0.719,0.221,0.06,home,home,True,0.7193173865855113,2-0,True
-2026-06-12,Canada,Bosnia and Herzegovina,1,1,0.618,0.259,0.122,home,draw,False,0.25923561871083506,1-0,False
-2026-06-12,United States,Paraguay,4,1,0.472,0.251,0.277,home,home,True,0.4722982745839616,1-1,False
-2026-06-13,Qatar,Switzerland,1,1,0.078,0.223,0.698,away,draw,False,0.2233457596462245,0-2,False
-2026-06-13,Brazil,Morocco,1,1,0.431,0.275,0.294,home,draw,False,0.27512116823226823,1-1,True
-2026-06-13,Haiti,Scotland,0,1,0.144,0.268,0.588,away,away,True,0.5881913352795157,0-1,True
-2026-06-13,Australia,Turkey,2,0,0.326,0.263,0.411,away,home,False,0.3256064164620691,1-1,False
-2026-06-14,Sweden,Tunisia,5,1,0.571,0.257,0.172,home,home,True,0.5709800378183273,1-0,False
-2026-06-14,Netherlands,Japan,2,2,0.425,0.318,0.257,home,draw,False,0.3180427460530379,1-1,False
-2026-06-14,Ivory Coast,Ecuador,1,0,0.216,0.294,0.49,away,home,False,0.2164710983568973,0-1,False
-2026-06-14,Germany,Curaçao,7,1,0.844,0.093,0.063,home,home,True,0.844065760752482,2-0,False
-2026-06-15,Saudi Arabia,Uruguay,1,1,0.112,0.255,0.633,away,draw,False,0.2553741244911059,0-1,False
-2026-06-15,Spain,Cape Verde,0,0,0.77,0.171,0.059,home,draw,False,0.17078385857552794,2-0,False
-2026-06-15,Belgium,Egypt,1,1,0.572,0.286,0.141,home,draw,False,0.2864855148240765,1-0,False
-2026-06-15,Iran,New Zealand,2,2,0.502,0.302,0.196,home,draw,False,0.3021034162185984,1-0,False
-2026-06-16,France,Senegal,3,1,0.561,0.269,0.17,home,home,True,0.5609963618538777,1-1,False
-2026-06-16,Iraq,Norway,1,4,0.095,0.201,0.704,away,away,True,0.704356698536825,0-2,False
-2026-06-16,Argentina,Algeria,3,0,0.603,0.269,0.128,home,home,True,0.6031862602850597,1-0,False
-2026-06-16,Austria,Jordan,3,1,0.592,0.259,0.148,home,home,True,0.5922165334825823,1-0,False
-2026-06-17,England,Croatia,4,2,0.509,0.292,0.2,home,home,True,0.5087152212315035,1-0,False
-2026-06-17,Portugal,DR Congo,1,1,0.636,0.269,0.095,home,draw,False,0.26914339325479625,1-0,False
-2026-06-17,Uzbekistan,Colombia,1,3,0.118,0.27,0.613,away,away,True,0.6126417159756278,0-1,False
-2026-06-17,Ghana,Panama,1,0,0.281,0.258,0.461,away,home,False,0.2812244162578255,1-1,False
-2026-06-18,Canada,Qatar,6,0,0.721,0.203,0.076,home,home,True,0.7205494027380679,2-0,False
-2026-06-18,Switzerland,Bosnia and Herzegovina,4,1,0.624,0.262,0.114,home,home,True,0.6240927339634824,1-0,False
-2026-06-18,Czech Republic,South Africa,1,1,0.589,0.267,0.144,home,draw,False,0.2669385785875777,1-0,False
-2026-06-18,Mexico,South Korea,1,0,0.531,0.284,0.184,home,home,True,0.5311029377307377,1-0,True
-2026-06-19,Scotland,Morocco,0,1,0.2,0.295,0.505,away,away,True,0.505399388943801,0-1,True
-2026-06-19,Brazil,Haiti,3,0,0.788,0.149,0.063,home,home,True,0.7883891039742892,2-0,False
-2026-06-19,United States,Australia,2,0,0.495,0.254,0.251,home,home,True,0.4951094003073564,1-1,False
-2026-06-19,Turkey,Paraguay,0,1,0.415,0.27,0.314,home,away,False,0.3144966261069472,1-1,False
-2026-06-20,Netherlands,Sweden,5,1,0.554,0.248,0.198,home,home,True,0.5544856689402112,1-1,False
-2026-06-20,Tunisia,Japan,0,4,0.104,0.262,0.634,away,away,True,0.634230012512082,0-1,False
-2026-06-20,Ecuador,Curaçao,0,0,0.755,0.184,0.06,home,draw,False,0.1844151677257433,2-0,False
-2026-06-20,Germany,Ivory Coast,2,1,0.509,0.277,0.214,home,home,True,0.5087225572495133,1-1,False
-2026-06-21,Belgium,Iran,0,0,0.575,0.256,0.168,home,draw,False,0.2562805552682944,1-0,False
-2026-06-21,New Zealand,Egypt,1,3,0.242,0.262,0.495,away,away,True,0.4954361463979737,0-1,False
-2026-06-21,Spain,Saudi Arabia,4,0,0.744,0.194,0.062,home,home,True,0.7441060710508179,2-0,False
-2026-06-21,Uruguay,Cape Verde,2,2,0.677,0.196,0.127,home,draw,False,0.19616791442824685,1-0,False
-2026-06-22,France,Iraq,3,0,0.768,0.18,0.052,home,home,True,0.7678903172198203,2-0,False
-2026-06-22,Norway,Senegal,3,2,0.409,0.247,0.344,home,home,True,0.4094427450723737,1-1,False
-2026-06-22,Argentina,Austria,2,0,0.615,0.274,0.111,home,home,True,0.6152215467921137,1-0,False
-2026-06-22,Jordan,Algeria,1,2,0.164,0.256,0.58,away,away,True,0.5803466658455363,0-1,False
-2026-06-23,Colombia,DR Congo,1,0,0.603,0.297,0.1,home,home,True,0.6032182910478622,1-0,True
-2026-06-23,Panama,Croatia,0,1,0.155,0.238,0.607,away,away,True,0.6067703662514021,0-1,True
-2026-06-23,Portugal,Uzbekistan,5,0,0.675,0.224,0.101,home,home,True,0.674581655982427,2-0,False
-2026-06-23,England,Ghana,0,0,0.65,0.286,0.064,home,draw,False,0.28603410788093214,2-0,False
-2026-06-24,Scotland,Brazil,0,3,0.135,0.247,0.618,away,away,True,0.6178257085257098,0-1,False
-2026-06-24,Mexico,Czech Republic,3,0,0.61,0.269,0.122,home,home,True,0.6099458719700548,1-0,False
-2026-06-24,South Africa,South Korea,1,0,0.146,0.315,0.539,away,home,False,0.14605742547377662,0-1,False
-2026-06-24,Canada,Switzerland,1,2,0.355,0.315,0.33,home,away,False,0.32998392442185254,1-1,False
-2026-06-24,Bosnia and Herzegovina,Qatar,3,1,0.593,0.255,0.152,home,home,True,0.5932601408581996,1-0,False
-2026-06-24,Morocco,Haiti,4,2,0.73,0.201,0.069,home,home,True,0.7296899183013638,2-0,False
-2026-06-25,Japan,Sweden,1,1,0.567,0.233,0.199,home,draw,False,0.2334101210518338,1-1,True
-2026-06-25,Tunisia,Netherlands,1,3,0.079,0.208,0.713,away,away,True,0.7133797836522914,0-2,False
-2026-06-25,Ecuador,Germany,2,1,0.191,0.408,0.401,draw,home,False,0.19116228004331995,0-1,False
-2026-06-25,Curaçao,Ivory Coast,0,2,0.109,0.221,0.67,away,away,True,0.6700546115130499,0-2,True
-2026-06-25,Paraguay,Australia,0,0,0.353,0.311,0.336,home,draw,False,0.3110036353169994,1-1,False
-2026-06-25,United States,Turkey,2,3,0.618,0.215,0.167,home,away,False,0.16723998416775723,1-0,False
-2026-06-26,Egypt,Iran,1,1,0.373,0.318,0.31,home,draw,False,0.3178544264287519,1-1,True
-2026-06-26,New Zealand,Belgium,1,5,0.092,0.222,0.685,away,away,True,0.685172443384568,0-2,False
-2026-06-26,Cape Verde,Saudi Arabia,0,0,0.374,0.282,0.344,home,draw,False,0.2822099695292961,1-1,False
-2026-06-26,Uruguay,Spain,0,1,0.159,0.227,0.615,away,away,True,0.6148558186606594,0-1,True
-2026-06-26,Norway,France,1,4,0.232,0.246,0.523,away,away,True,0.5226517897633617,0-1,False
-2026-06-26,Senegal,Iraq,5,0,0.63,0.249,0.121,home,home,True,0.6304544607791334,1-0,False
-2026-06-27,Croatia,Ghana,2,1,0.583,0.281,0.136,home,home,True,0.5833911664381293,1-0,False
-2026-06-27,Panama,England,0,2,0.12,0.21,0.671,away,away,True,0.6705966026906802,0-2,True
-2026-06-27,DR Congo,Uzbekistan,3,1,0.417,0.289,0.294,home,home,True,0.41703294024095117,1-1,False
-2026-06-27,Colombia,Portugal,0,0,0.301,0.283,0.416,away,draw,False,0.2834598725623188,1-1,False
-2026-06-27,Jordan,Argentina,1,3,0.081,0.092,0.826,away,away,True,0.8261230646889527,0-2,False
-2026-06-27,Algeria,Austria,3,3,0.344,0.281,0.375,away,draw,False,0.28108085528375043,1-1,False
-2026-06-28,South Africa,Canada,0,1,0.17,0.314,0.516,away,away,True,0.5158305766162886,0-1,True
-2026-06-29,Brazil,Japan,2,1,0.532,0.277,0.191,home,home,True,0.5324430184793189,1-1,False
-2026-06-29,Germany,Paraguay,1,1,0.57,0.264,0.166,home,draw,False,0.2635479050897442,1-0,False
-2026-06-29,Netherlands,Morocco,1,1,0.449,0.301,0.251,home,draw,False,0.30065822559819455,1-1,True
-2026-06-30,Ivory Coast,Norway,1,2,0.275,0.268,0.457,away,away,True,0.45728117557221887,1-1,False
-2026-06-30,France,Sweden,3,0,0.667,0.244,0.089,home,home,True,0.6674434347597457,2-1,False
-2026-06-30,Mexico,Ecuador,2,0,0.362,0.323,0.315,home,home,True,0.36204921652079863,1-0,False
-2026-07-01,Belgium,Senegal,3,2,0.433,0.26,0.307,home,home,True,0.43333888402066595,1-1,False
-2026-07-01,England,DR Congo,2,1,0.625,0.289,0.085,home,home,True,0.625326184926601,1-0,False
-2026-07-01,United States,Bosnia and Herzegovina,2,0,0.674,0.228,0.098,home,home,True,0.6740861721536405,1-0,False
-2026-07-02,Portugal,Croatia,2,1,0.52,0.273,0.206,home,home,True,0.5204549035664411,1-1,False
-2026-07-02,Spain,Austria,3,0,0.656,0.241,0.103,home,home,True,0.6555306417189183,1-0,False
-2026-07-02,Switzerland,Algeria,2,0,0.373,0.252,0.375,away,home,False,0.37279293058776114,1-1,False
-2026-07-03,Argentina,Cape Verde,3,2,0.747,0.201,0.052,home,home,True,0.7471287312522525,2-0,False
-2026-07-03,Australia,Egypt,1,1,0.337,0.322,0.342,away,draw,False,0.3216100964098331,1-1,True
-2026-07-03,Colombia,Ghana,1,0,0.657,0.253,0.091,home,home,True,0.6566608365251924,2-0,False
-2026-07-04,Paraguay,France,0,1,0.124,0.205,0.671,away,away,True,0.6709296384109759,0-2,False
-2026-07-04,Canada,Morocco,0,3,0.183,0.313,0.504,away,away,True,0.5043843805305974,0-1,False
-2026-07-05,Brazil,Norway,1,2,0.511,0.207,0.282,home,away,False,0.2818625626132264,1-1,False
+2026-06-11,Mexico,South Africa,2,0,0.723,0.212,0.066,home,home,True,0.7225644324747398,2-0,True
+2026-06-11,South Korea,Czech Republic,2,1,0.321,0.302,0.377,away,home,False,0.3211338447813412,1-1,False
+2026-06-12,Canada,Bosnia and Herzegovina,1,1,0.614,0.261,0.125,home,draw,False,0.26125243170644535,1-0,False
+2026-06-12,United States,Paraguay,4,1,0.464,0.244,0.292,home,home,True,0.46387653205634316,1-1,False
+2026-06-13,Australia,Turkey,2,0,0.335,0.287,0.378,away,home,False,0.33476779318408817,1-1,False
+2026-06-13,Qatar,Switzerland,1,1,0.059,0.247,0.694,away,draw,False,0.2470085588740427,0-2,False
+2026-06-13,Brazil,Morocco,1,1,0.451,0.262,0.287,home,draw,False,0.262434619383228,1-1,True
+2026-06-13,Haiti,Scotland,0,1,0.134,0.277,0.588,away,away,True,0.5881013830071523,0-1,True
+2026-06-14,Netherlands,Japan,2,2,0.452,0.301,0.247,home,draw,False,0.3010229648089026,1-1,False
+2026-06-14,Sweden,Tunisia,5,1,0.558,0.264,0.178,home,home,True,0.5576787191051357,1-0,False
+2026-06-14,Germany,Curaçao,7,1,0.848,0.106,0.046,home,home,True,0.8483007677459221,3-0,False
+2026-06-14,Ivory Coast,Ecuador,1,0,0.263,0.32,0.417,away,home,False,0.26347047925818345,0-1,False
+2026-06-15,Saudi Arabia,Uruguay,1,1,0.114,0.249,0.637,away,draw,False,0.2488269988070022,0-1,False
+2026-06-15,Spain,Cape Verde,0,0,0.761,0.174,0.065,home,draw,False,0.1740126604993439,2-0,False
+2026-06-15,Belgium,Egypt,1,1,0.572,0.279,0.149,home,draw,False,0.2790823409294891,1-0,False
+2026-06-15,Iran,New Zealand,2,2,0.517,0.3,0.183,home,draw,False,0.30039502780836846,1-0,False
+2026-06-16,France,Senegal,3,1,0.622,0.227,0.152,home,home,True,0.6215894149165325,1-0,False
+2026-06-16,Iraq,Norway,1,4,0.098,0.206,0.696,away,away,True,0.6957037993438094,0-1,False
+2026-06-16,Argentina,Algeria,3,0,0.601,0.261,0.138,home,home,True,0.6014657933546135,1-0,False
+2026-06-16,Austria,Jordan,3,1,0.588,0.249,0.163,home,home,True,0.5877494090950662,1-0,False
+2026-06-17,Ghana,Panama,1,0,0.268,0.279,0.453,away,home,False,0.2678244702524473,1-1,False
+2026-06-17,Portugal,DR Congo,1,1,0.643,0.247,0.109,home,draw,False,0.24746744633593162,1-0,False
+2026-06-17,Uzbekistan,Colombia,1,3,0.115,0.258,0.627,away,away,True,0.6267489695367798,0-1,False
+2026-06-17,England,Croatia,4,2,0.504,0.306,0.19,home,home,True,0.5041235376953658,1-0,False
+2026-06-18,Canada,Qatar,6,0,0.717,0.204,0.078,home,home,True,0.7172412079588084,2-0,False
+2026-06-18,Switzerland,Bosnia and Herzegovina,4,1,0.62,0.257,0.123,home,home,True,0.6201909871839997,1-0,False
+2026-06-18,Mexico,South Korea,1,0,0.524,0.293,0.183,home,home,True,0.5236048497795897,1-0,True
+2026-06-18,Czech Republic,South Africa,1,1,0.565,0.279,0.156,home,draw,False,0.2788755828332035,1-0,False
+2026-06-19,Scotland,Morocco,0,1,0.181,0.305,0.514,away,away,True,0.5143278219820836,0-1,True
+2026-06-19,Brazil,Haiti,3,0,0.793,0.135,0.072,home,home,True,0.7931459984819514,3-0,True
+2026-06-19,United States,Australia,2,0,0.502,0.235,0.263,home,home,True,0.5016481081129981,1-1,False
+2026-06-19,Turkey,Paraguay,0,1,0.452,0.254,0.294,home,away,False,0.29429860881547504,1-1,False
+2026-06-20,Germany,Ivory Coast,2,1,0.517,0.282,0.201,home,home,True,0.5170502046863277,1-1,False
+2026-06-20,Ecuador,Curaçao,0,0,0.757,0.192,0.052,home,draw,False,0.1915748008506815,2-0,False
+2026-06-20,Netherlands,Sweden,5,1,0.561,0.237,0.202,home,home,True,0.5609181756497027,1-1,False
+2026-06-20,Tunisia,Japan,0,4,0.114,0.256,0.629,away,away,True,0.6293206927954381,0-1,False
+2026-06-21,Spain,Saudi Arabia,4,0,0.727,0.201,0.072,home,home,True,0.7265445483965812,2-0,False
+2026-06-21,Uruguay,Cape Verde,2,2,0.68,0.199,0.121,home,draw,False,0.19888478651911198,1-0,False
+2026-06-21,New Zealand,Egypt,1,3,0.249,0.267,0.485,away,away,True,0.48456580629256435,0-1,False
+2026-06-21,Belgium,Iran,0,0,0.557,0.249,0.194,home,draw,False,0.2486533665163133,1-0,False
+2026-06-22,France,Iraq,3,0,0.783,0.175,0.042,home,home,True,0.782660535678814,2-0,False
+2026-06-22,Norway,Senegal,3,2,0.394,0.264,0.342,home,home,True,0.39399012502192116,1-1,False
+2026-06-22,Argentina,Austria,2,0,0.626,0.273,0.101,home,home,True,0.6257550981510097,1-0,False
+2026-06-22,Jordan,Algeria,1,2,0.145,0.257,0.598,away,away,True,0.598245038108123,0-1,False
+2026-06-23,Portugal,Uzbekistan,5,0,0.669,0.217,0.114,home,home,True,0.6694118679154987,2-0,False
+2026-06-23,Colombia,DR Congo,1,0,0.602,0.304,0.093,home,home,True,0.6024394092283636,1-0,True
+2026-06-23,England,Ghana,0,0,0.643,0.304,0.052,home,draw,False,0.304063693938218,1-0,False
+2026-06-23,Panama,Croatia,0,1,0.157,0.24,0.603,away,away,True,0.6030506306357949,1-1,False
+2026-06-24,Morocco,Haiti,4,2,0.743,0.196,0.06,home,home,True,0.7433149244216533,2-0,False
+2026-06-24,Scotland,Brazil,0,3,0.115,0.26,0.625,away,away,True,0.6246834124092707,0-1,False
+2026-06-24,Bosnia and Herzegovina,Qatar,3,1,0.596,0.249,0.155,home,home,True,0.5957196548058276,1-0,False
+2026-06-24,Canada,Switzerland,1,2,0.341,0.324,0.334,home,away,False,0.33431735069259716,1-1,False
+2026-06-24,South Africa,South Korea,1,0,0.136,0.305,0.559,away,home,False,0.135969287697694,0-1,False
+2026-06-24,Mexico,Czech Republic,3,0,0.6,0.278,0.123,home,home,True,0.5998474383359116,2-0,False
+2026-06-25,United States,Turkey,2,3,0.598,0.231,0.171,home,away,False,0.17132135898373488,1-0,False
+2026-06-25,Paraguay,Australia,0,0,0.364,0.309,0.327,home,draw,False,0.30918164387384195,1-1,False
+2026-06-25,Curaçao,Ivory Coast,0,2,0.106,0.242,0.653,away,away,True,0.652634954997383,0-2,True
+2026-06-25,Ecuador,Germany,2,1,0.244,0.309,0.447,away,home,False,0.24386199056360666,0-1,False
+2026-06-25,Japan,Sweden,1,1,0.55,0.237,0.213,home,draw,False,0.23663506269482668,2-1,False
+2026-06-25,Tunisia,Netherlands,1,3,0.092,0.215,0.693,away,away,True,0.6927975663655997,0-2,False
+2026-06-26,Senegal,Iraq,5,0,0.643,0.235,0.122,home,home,True,0.6427416138953683,1-0,False
+2026-06-26,Norway,France,1,4,0.213,0.27,0.517,away,away,True,0.5169143917875216,0-1,False
+2026-06-26,Uruguay,Spain,0,1,0.125,0.257,0.619,away,away,True,0.6185125184223975,0-1,True
+2026-06-26,New Zealand,Belgium,1,5,0.114,0.207,0.678,away,away,True,0.6784197473875234,0-2,False
+2026-06-26,Egypt,Iran,1,1,0.391,0.318,0.291,home,draw,False,0.3181947890691174,1-1,True
+2026-06-26,Cape Verde,Saudi Arabia,0,0,0.369,0.271,0.361,home,draw,False,0.2706108074503899,1-1,False
+2026-06-27,Algeria,Austria,3,3,0.339,0.286,0.375,away,draw,False,0.28552479831280836,1-1,False
+2026-06-27,Jordan,Argentina,1,3,0.062,0.096,0.842,away,away,True,0.8423359194426597,0-2,False
+2026-06-27,Colombia,Portugal,0,0,0.272,0.26,0.467,away,draw,False,0.2600653082343963,1-1,False
+2026-06-27,DR Congo,Uzbekistan,3,1,0.41,0.304,0.286,home,home,True,0.4097092633802211,1-1,False
+2026-06-27,Panama,England,0,2,0.116,0.197,0.687,away,away,True,0.6868629094079063,0-2,True
+2026-06-27,Croatia,Ghana,2,1,0.566,0.282,0.151,home,home,True,0.566453134459307,1-0,False
+2026-06-28,South Africa,Canada,0,1,0.158,0.321,0.521,away,away,True,0.5206827532419038,0-1,True
+2026-06-29,Netherlands,Morocco,1,1,0.426,0.295,0.28,home,draw,False,0.29476425702666914,1-1,True
+2026-06-29,Brazil,Japan,2,1,0.536,0.262,0.201,home,home,True,0.536328510936427,1-1,False
+2026-06-29,Germany,Paraguay,1,1,0.566,0.268,0.166,home,draw,False,0.26805989678004977,1-0,False
+2026-06-30,Ivory Coast,Norway,1,2,0.285,0.262,0.453,away,away,True,0.45290368141522586,1-1,False
+2026-06-30,France,Sweden,3,0,0.69,0.23,0.08,home,home,True,0.6899136778004188,2-1,False
+2026-06-30,Mexico,Ecuador,2,0,0.337,0.353,0.31,draw,home,False,0.33709045802208726,1-0,False
+2026-07-01,England,DR Congo,2,1,0.643,0.274,0.083,home,home,True,0.6433410545130296,1-0,False
+2026-07-01,Belgium,Senegal,3,2,0.411,0.273,0.315,home,home,True,0.41137723219082906,1-1,False
+2026-07-01,United States,Bosnia and Herzegovina,2,0,0.666,0.235,0.098,home,home,True,0.6664448777396951,1-0,False
+2026-07-02,Portugal,Croatia,2,1,0.522,0.265,0.214,home,home,True,0.5218661813870473,1-1,False
+2026-07-02,Spain,Austria,3,0,0.657,0.22,0.123,home,home,True,0.6568982764426939,1-0,False
+2026-07-02,Switzerland,Algeria,2,0,0.365,0.265,0.37,away,home,False,0.36522310211213765,1-1,False
+2026-07-03,Argentina,Cape Verde,3,2,0.72,0.226,0.054,home,home,True,0.7201762701881292,2-0,False
+2026-07-03,Australia,Egypt,1,1,0.337,0.315,0.349,away,draw,False,0.3146267667103754,1-1,True
+2026-07-03,Colombia,Ghana,1,0,0.655,0.256,0.089,home,home,True,0.654904626189406,2-0,False
+2026-07-04,Canada,Morocco,0,3,0.168,0.313,0.519,away,away,True,0.5189417053447102,0-1,False
+2026-07-04,Paraguay,France,0,1,0.107,0.207,0.687,away,away,True,0.6866010160995656,0-2,False
+2026-07-05,Brazil,Norway,1,2,0.485,0.221,0.294,home,away,False,0.2944331434935006,1-1,False
+2026-07-05,Mexico,England,2,3,0.276,0.267,0.456,away,away,True,0.45647822195447346,1-1,False
